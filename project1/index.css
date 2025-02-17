@@ -1,0 +1,254 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+   
+}
+header
+{
+    height: 125px;
+    margin-bottom: 15px;
+    background-color: black;
+
+}
+.heading
+{
+    height: fit-content;
+    margin-bottom: 20px;
+}
+.head-welcome
+{
+    color: white;
+    margin-bottom: 0.25rem;
+}
+.head-discover
+{
+    color:white ;
+}
+nav
+{
+    height:15px;
+    width: 720px;
+    color: white;
+}
+nav a 
+{
+    text-decoration: none;
+    color: white;
+}
+
+nav li
+{
+    float: left;
+    font-size: medium;
+    margin-left:20px;
+    border: 1px solid transparent;
+}
+nav li :hover
+{
+    border: 1px solid white;
+}
+
+/* about india */
+.About{
+    height:360px;
+    width: 100%;
+   
+}
+    
+.About-heading
+{
+    text-align: center;
+}
+.About-fect
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: larger;
+
+}
+.About-img
+{
+    float: left;
+    margin-left: 50px;  
+    margin-top: 15px;
+    background-color: white; 
+}
+.About-img figcaption{
+    margin-bottom: 5px;
+    text-align: center;
+      
+}
+
+.About-list
+{
+    float: left;
+    height: 100px;
+    
+    margin-top: 75px;
+    margin-left: 100px;
+    font-size: x-large;
+}
+.About-boath
+{
+   width: 95%;
+   height: 250px;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color:cadetblue;
+}
+
+/* about landmark */
+.landmark{
+    margin-bottom: 15px;
+}
+.Landmark-heading
+{
+    text-align: center;
+}
+.Landmark-fect
+{
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 10px;
+}
+.Landmark-img-1
+{
+    float :left;
+    margin-left:100px;
+    background-color: white;
+    padding: 2px;
+}
+.Landmark-img-2
+{
+    float :right;
+    margin-right:300px;
+    background-color: white;
+    padding: 15px;
+}
+.Landmark-boath
+{
+    height: 280px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 10px;
+    padding-top: 25px;
+    background-color:cadetblue;
+}
+.Landmark-Don
+{
+    text-align: center;
+    
+}
+/* culture */
+.culture{
+    margin-bottom: 20px;
+}
+.culture-heading
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.culture-fect
+{
+     margin-bottom: 20px;
+     margin-left: 75px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.culture-list
+{
+  float:right;
+  margin-right: 200px;
+  margin-top: 75px;
+  font-size: x-large;
+}
+
+.culture-img
+{
+    float:left;
+    margin-left: 110px;
+    margin-top: 20px;
+    background-color: white;
+    padding: 2px;
+}
+.culture-boath
+{
+    margin-left: 48px;
+    margin-right: 48px;
+    background-color: cadetblue;
+    height: 250px;
+}
+
+/* cusion */
+.cusion{
+    height: 500px;
+}
+.cusion-heading
+{
+    text-align: center;
+}
+.cusion-fect
+{
+    margin-bottom: 10px;
+    margin-left: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cusion-list
+{
+    font-size: x-large;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.cusion-img-1
+{
+   float: left;
+   margin-left: 110px;
+   padding: 2px;
+   background-color: white;
+}
+.cusion-img-2
+{
+    float: left;
+    margin-left: 500px;
+    padding: 2px;
+    background-color: white;
+}
+.cusion-boath
+{
+    
+    height:400px;
+    margin-left: 48px;
+    margin-right: 48px;
+    background-color: cadetblue;
+
+}
+/* footer */
+footer{
+    height: 200px;
+    width: 100%;
+    background-color:;
+}
+.contact{
+   font-size:25px;
+   background-color:darkslategray;
+   color :white;
+}
+.contact a{
+    text-decoration: none; 
+    color :white;
+}
+.follow{
+    font-size: 35px;
+    margin-bottom: 25px;
+    background-color: rgb(32, 49, 49);
+    color: white;
+}
+.follow a{
+    text-decoration: none;
+    color: aqua;
+}
+
